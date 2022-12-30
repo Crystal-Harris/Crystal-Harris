@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello Crystal Harris](https://user-images.githubusercontent.com/59777971/210111290-4ba2ba3c-699e-4377-ad0d-64a9deed9420.jpg)
 
 <!--
 **Crystal-Harris/Crystal-Harris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"     height=25>
   </a> 
   <a href="https://www.instagram.com/mokkapps/">
-    <img src="https://img.shields.io/badge/-Email%20Me-critical" height=25>
+  ![email_me_button_icon_151852](https://user-images.githubusercontent.com/59777971/210112277-83a2d951-689a-4fe0-9887-6f82576f6b60.png)
   </a> 
 </p>
 <!--

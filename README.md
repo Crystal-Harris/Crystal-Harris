@@ -3,6 +3,13 @@
   <a href="https://www.linkedin.com/in/mokkapps">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"     height=25>
   </a> 
+  [![invisible description of images, read aloud to blind users
+]([email_me_button_icon_151852](https://user-images.githubusercontent.com/59777971/210112277-83a2d951-689a-4fe0-9887-6f82576f6b60.png)
+](https://meta.stackoverflow.com/users/44330/jason-s)
+  
+  
+  
+  
   <a href="https://www.instagram.com/mokkapps/">
   ![email_me_button_icon_151852](https://user-images.githubusercontent.com/59777971/210112277-83a2d951-689a-4fe0-9887-6f82576f6b60.png)
   </a> 

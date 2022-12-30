@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/mokkapps">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"     height=25>
   </a> 
-  ![email_me_button_icon_151852](https://user-images.githubusercontent.com/59777971/210112592-315055b8-df8c-4d59-bd54-8b889aea3858.png)
+![email_me_button_icon_151852](https://user-images.githubusercontent.com/59777971/210112707-bf07e7ef-76d0-43c1-a217-ab8edf442c79.png)
 
 </p>
 <!--

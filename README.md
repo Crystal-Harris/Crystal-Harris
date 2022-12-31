@@ -7,7 +7,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/email_me_button_icon_151852.png" height=25>
   </a>
 </p>
-<details> 
+<details open> 
   <summary>
     <img src="https://lh3.googleusercontent.com/YRNyx_-zDZFwf7lzSdHcdeu99g2PrmJa8T1wcSnp78C4euqRU6aTRgAVsDb53OATC6FhbaMu54cHDECMQpwajyWpyYD09E0KD2b0Tr245jyf0QO3ZZWVsqn_l70lEZ9KI8g0Gubc4liM3crJS8gNoXx-CGFLwhdgxxqcNI7vFUNIc-XjaeVvIVs9HpVKr1B3uzmM5ln3kdmBtyDydGr0ZanNRm8h6YUCKgrO1gbasJrYVCpWMzgO_p88pDx0Kqi4i1NEoGuzBodFQHZd9Znnm8A60eptmT5DmxYzZasOwIXJRaBS9gKmxkD_yAN0TSsy77ryc_kfOuRzOMqHFyi3eIDabso_ZHCezBOCjgJ0xm4e8Co2xvbLA2GUCN8Et6EIFzUWGwKAR8QphBewlUmLbscZk2FIkniAztUo10R4QWi6fslPB5MgSANA5QmfGzQTgnKv0R2riFrypUASnhxtVUH3C0KTEOg5Bj9thqVjNd7zl1XtjQoniN1NT-2XYB_npSgXaDiM-Pgyu325P7_me8t2NSDBsx2d0gnwQbaN-Rcfaw1uy9N-6wwAlpudUuUmQvJhyroQUp2ZBat7RpeUhVtS4JVnxcsYwpRLKIvb6zLddy_M8D1ucYoCxT6__lhMtlM9mWS9oFBplbAiIbXIeL0it2yXJjwnjoAd468Dmqjlqvkeo-DUp5A0C3hpSzsGKn7HSdLo0GlM7ACCpBPvxZSuCaXIB7nukPwGrmHxXgYXCh7now3SkuHtdEcwJsCHfp8YyEFB-x6sbIrAxh1frH7jiOBuyHy2WJ5cMr1PKzodbu2aFHVbXm6_-oEdrLtcALnQhWvIzhqltLjkaJzEBOwNtKCEEISoAdfU1s9lxAkVgmgv7HZ3TXF0m_85B0RGUTqwqBOhzaiBuPqloi3e49iROMn9gNggZ8fmtnGpg2Lr=s398-no?authuser=0" height=75>
     <h2> 
@@ -26,33 +26,69 @@
   - ⚡ Fun fact: In college I worked the entertainment circuit where I got to meet some of my favorite bands and celebrities.<br/>
   </p>
   <h3>LinkedIn Skill Badges Awarded</h3>
-  <h4>Top 5%</h4>
-  <p>
-    - Ruby on Rails</br>
-    - MySql </br>
-    - CSS </br>
-    - Git </br>
-    - PHP </br>
-    - Node.js </br>
-    - Amazon Web Services (AWS) </br>
-    - React.JS </br>
-    - Javascript </br>
-    - REST Api's </br>   
-  </p>
-    <h4>Top 15%</h4>
-  <p>
-    - .NET Framework </br>
-    - Python </br>
-    - AngularJs </br>
-    - jQuery </br>
-    - Google Cloud Platform (GCP) </br>
-    - Front End Development </br> 
-  </p>
-      <h4>Top 30%</h4>
-  <p>
-    - C# </br>
-    - AWS Lambda </br>
-    - Cybersecurity </br>
-  </p>
   <a href="https://photos.app.goo.gl/K2Cz5BCCEN38JpKW7" target="_blank">See the awards here</a>
+  <table
+  style="border: 1px solid black;
+  border-collapse: collapse;">
+  <tr>
+    <th>Top 5%</th>
+    <th>Top 15%</th>
+    <th>Top 30%</th>
+  </tr>
+  <tr>
+    <td>Ruby on Rails</td>
+    <td>.NET Framework</td>
+    <td>C#</td>
+  </tr>
+  <tr>
+    <td>MySql</td>
+    <td>Python</td>
+    <td>AWS Lambda</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>AngularJS</td>
+    <td>CyberSecurity</td>
+  </tr>
+  <tr>
+    <td>Git</td>
+    <td>jQuery</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Google Cloud Platform (GCP)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Front End Development</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Amazon Web Services (AWS)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>React.js</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Javascript</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rest API's</td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
 </details>

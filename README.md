@@ -25,10 +25,10 @@
   - 😄 Pronouns: She/Her<br/>
   - ⚡ Fun fact: In college I worked the entertainment circuit where I got to meet some of my favorite bands and celebrities.<br/>
   </p>
-  <h3>LinkedIn Skill Badges</h3>
+  <h3><a href="https://photos.app.goo.gl/K2Cz5BCCEN38JpKW7" target="_blank"LinkedIn Skill Badges</a></h3>
   <h4>Top 5%</h4>
   <p>
-    - <a href="https://photos.app.goo.gl/7XAfWniog6tABdDG8" target="_blank">Ruby on Rails</a> </br>
+    - Ruby on Rails</br>
     - MySql </br>
     - CSS </br>
     - Git </br>

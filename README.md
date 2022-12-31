@@ -25,7 +25,7 @@
   - 😄 Pronouns: She/Her<br/>
   - ⚡ Fun fact: In college I worked the entertainment circuit where I got to meet some of my favorite bands and celebrities.<br/>
   </p>
-  <h3><a href="https://photos.app.goo.gl/K2Cz5BCCEN38JpKW7" target="_blank"LinkedIn Skill Badges</a></h3>
+  <h3>LinkedIn Skill Badges Awarded</h3>
   <h4>Top 5%</h4>
   <p>
     - Ruby on Rails</br>
@@ -54,4 +54,5 @@
     - AWS Lambda </br>
     - Cybersecurity </br>
   </p>
+  <a href="https://photos.app.goo.gl/K2Cz5BCCEN38JpKW7" target="_blank">See the awards here</a>
 </details>

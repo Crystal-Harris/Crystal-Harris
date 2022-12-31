@@ -92,10 +92,20 @@
   </tr>
   </table>
 </details>
-<details open> 
+<details> 
   <summary>
     <h2> 
       Open Source Stats
+    </h2>
+    <p>
+      None yet, I'm still working on diving into this pool. Stay tuned!
+    </p>
+  </summary>
+  </details>
+  <details> 
+  <summary>
+    <h2> 
+      Articles I've Written
     </h2>
     <p>
       None yet, I'm still working on diving into this pool. Stay tuned!

@@ -92,3 +92,13 @@
   </tr>
   </table>
 </details>
+<details open> 
+  <summary>
+    <h2> 
+      Open Source Stats
+    </h2>
+    <p>
+      None yet, I'm still working on diving into this pool. Stay tuned!
+    </p>
+  </summary>
+  </details>

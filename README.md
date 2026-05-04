@@ -6,7 +6,7 @@
 
 ## What I'm Building
 
-**PromptliAI** launches Q1 2026 in San Francisco — a transparent AI orchestration platform that treats explainability as an architectural requirement, not an afterthought.
+**PromptliAI** launches Q2 2026 in San Francisco — a transparent AI orchestration platform that treats explainability as an architectural requirement, not an afterthought.
 
 The decisions we make in 2026 about AI architecture will compound for decades. I'm building systems where:
 - Model selection is explainable by design
@@ -66,7 +66,7 @@ Real transparency requires engineering from the ground up — not dashboards sla
 
 ## Let's Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/theaiguru)
+- 🔗 LinkedIn: [linkedin.com/in/theaiguru](https://linkedin.com/in/theaiguru)
 - 🌐 PromptliAI: [promptli.ai](https://www.promptliai.com/)
 ---
 
